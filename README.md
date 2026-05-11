@@ -1,4 +1,4 @@
-# Mabuhay Padala Center - AnyLogic Simulation
+# Mabuhay Padala Center - AnyLogic Discrete Event Simulation
 
 ## Overview
 This repository contains an AnyLogic Discrete Event Simulation (DES) model of the **Mabuhay Padala Center**. The simulation models the end-to-end operational flow of a logistics and package delivery hub, from customer arrival and order processing to internal warehouse handling, and finally, outbound truck dispatch.
