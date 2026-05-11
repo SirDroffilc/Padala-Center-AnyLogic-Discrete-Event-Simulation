@@ -14,19 +14,19 @@ By adjusting parameters such as customer arrival rates, employee counts, and tru
 
 ### 1. 3D View
 <!-- Replace the link below with the actual path to your 3D view screenshot -->
-![3D View](sample_simulation_images\padala_3d.png)
+![3D View](https://github.com/SirDroffilc/Padala-Center-AnyLogic-Discrete-Event-Simulation/blob/master/sample_simulation_images/padala_3d.png?raw=true)
 
 ### 2. 2D View
 <!-- Replace the link below with the actual path to your 2D view screenshot -->
-![2D View](sample_simulation_images\padala_2d.png)
+![2D View](https://github.com/SirDroffilc/Padala-Center-AnyLogic-Discrete-Event-Simulation/blob/master/sample_simulation_images/padala_2d.png?raw=true)
 
 ### 3. Statistics
 <!-- Replace the link below with the actual path to your statistics screenshot -->
-![Statistics](sample_simulation_images\padala_statistics.png)
+![Statistics](https://github.com/SirDroffilc/Padala-Center-AnyLogic-Discrete-Event-Simulation/blob/master/sample_simulation_images/padala_statistics.png?raw=true)
 
 ### 4. Logic Flow
 <!-- Replace the link below with the actual path to your logic flow screenshot -->
-![Logic Flow](sample_simulation_images\padala_logic.png)
+![Logic Flow](https://github.com/SirDroffilc/Padala-Center-AnyLogic-Discrete-Event-Simulation/blob/master/sample_simulation_images/padala_logic.png?raw=true)
 
 ## How to Run the Simulation
 
